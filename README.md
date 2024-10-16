@@ -33,4 +33,4 @@ I am currently pursuing my **Master of Science in Software Engineering Systems**
 
 ## 🌐 Connect with Me:
 - **LinkedIn**: [Ujjawal Shrivastava](https://www.linkedin.com/in/ujjawal-shrivastava/)
-- **GitHub**: [shrujj01](https://github.com/shrujj01)
+- **GitHub**: [shrujj01](https://github.com/shrujj01/UjjawalShrivastava)
