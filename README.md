@@ -1,11 +1,3 @@
-# UjjawalShrivastava
-My Personal Profile
-
-
-Here is a draft for your **README.md** file:
-
----
-
 # Ujjawal Shrivastava
 
 👋 Hi, I'm Ujjawal Shrivastava, a passionate software developer with seven years of experience, specializing in creating advanced, scalable, and secure applications. I am proficient in the full software development lifecycle from design through deployment and debugging, with a strong focus on delivering high-quality products that are performant and user-centric.
@@ -40,6 +32,3 @@ I am currently pursuing my **Master of Science in Software Engineering Systems**
 ## 📄 Resume:
 You can view my full resume [here](./Resume_Ujjawal_Shrivastava_Software.pdf).
 
----
-
-Let me know if you would like any changes!
