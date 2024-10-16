@@ -1,20 +1,18 @@
 # Ujjawal Shrivastava
 
-👋 Hi, I'm Ujjawal Shrivastava, a passionate software developer with seven years of experience, specializing in creating advanced, scalable, and secure applications. I am proficient in the full software development lifecycle from design through deployment and debugging, with a strong focus on delivering high-quality products that are performant and user-centric.
-
-I am currently pursuing my **Master of Science in Software Engineering Systems** at Northeastern University, where I continue to deepen my knowledge in areas such as web development, cloud technologies, and software architecture.
+A results-driven software developer with seven years of experience in creating scalable, secure applications. Specializing in the full software development lifecycle—from design to deployment—delivering solutions that are both high-performing and user-centric. Currently deepening expertise in **Software Engineering Systems** at Northeastern University, with a focus on cutting-edge technologies in cloud computing, CI/CD pipelines, and application development.
 
 ---
 
-## 🔭 Currently Working On:
-- Developing **custom application images** using Packer, integrating **MySQL/MariaDB/PostgreSQL**, and managing CI/CD pipelines using **GitHub Actions**.
-- Infrastructure automation using **Terraform** and **AWS**.
+## 🔭 Focus Areas:
+- Building **custom application images** with Packer, integrating databases like **MySQL/MariaDB/PostgreSQL**, and streamlining CI/CD processes with **GitHub Actions**.
+- Automating dynamic infrastructure using **Terraform** on **AWS**.
 
 ---
 
-## 🌱 Always Learning:
-- The latest advancements in cloud technologies, frameworks, and development practices.
-- Enhancing my skills in full-stack development and cloud-based CI/CD pipeline management.
+## 🌱 Passion for Continuous Learning:
+- Keeping up with advancements in **cloud technologies** and **development frameworks**.
+- Sharpening full-stack development skills and exploring new approaches to cloud-based infrastructure management.
 
 ---
 
@@ -31,9 +29,9 @@ I am currently pursuing my **Master of Science in Software Engineering Systems**
 
 ---
 
-## 💼 Professional Experience:
-- **Software Development Engineer 2** at CSG International, where I implemented modern standards like **RESTful APIs** and **microservices architecture**, improving code structure and readability by 90%.
-- **Software Developer** at Amdocs, contributing to security improvements, reducing production issues by 32%, and automating data validation processes that saved over 25 man-hours weekly.
+## 💼 Professional Highlights:
+- At **CSG International**, restructured legacy code with modern standards like **RESTful APIs** and **microservices**, enhancing readability and maintainability by 90%.
+- At **Amdocs**, addressed critical security flaws and automated processes, saving 25+ man-hours weekly while reducing production issues by 32%.
 
 ---
 
