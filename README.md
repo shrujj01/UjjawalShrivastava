@@ -25,10 +25,12 @@ I am currently pursuing my **Master of Science in Software Engineering Systems**
 - **Software Development Engineer 2** at CSG International, where I implemented modern standards like **RESTful APIs** and **microservices architecture**, improving code structure and readability by 90%.
 - **Software Developer** at Amdocs, contributing to security improvements, reducing production issues by 32%, and automating data validation processes that saved over 25 man-hours weekly.
 
+## 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shrujj01&theme=onedark)
+
+## 📊 GitHub Stats:
+![Ujjawal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrujj01&show_icons=true&theme=radical)
+
 ## 🌐 Connect with Me:
 - **LinkedIn**: [Ujjawal Shrivastava](https://www.linkedin.com/in/ujjawal-shrivastava/)
 - **GitHub**: [shrujj01](https://github.com/shrujj01)
-  
-## 📄 Resume:
-You can view my full resume [here](./Resume_Ujjawal_Shrivastava_Software.pdf).
-
