@@ -60,9 +60,4 @@ Results-driven software developer with seven years of experience crafting advanc
 
 ---
 
-## 📄 Resume:
-You can view my full resume [here](./Resume_Ujjawal_Shrivastava_Software.pdf).
-
----
-
 This README.md incorporates your professional experience, skills, and current academic pursuits, aligned with your GitHub stats and recent public repository contributions. Let me know if any additional details should be included!
