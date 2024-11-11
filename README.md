@@ -1,18 +1,22 @@
+Based on your resume and the existing content, here is an updated **README.md** for your GitHub profile:
+
+---
+
 # Ujjawal Shrivastava
 
-A results-driven software developer with seven years of experience in creating scalable, secure applications. Specializing in the full software development lifecycle—from design to deployment—delivering solutions that are both high-performing and user-centric. Currently deepening expertise in **Software Engineering Systems** at Northeastern University, with a focus on cutting-edge technologies in cloud computing, CI/CD pipelines, and application development.
+Results-driven software developer with seven years of experience crafting advanced, scalable, and secure applications. Highly skilled in the complete software development lifecycle—from design to deployment—providing solutions that are both high-performing and user-focused. Currently advancing expertise in **Software Engineering Systems** at Northeastern University, with an emphasis on cloud computing, CI/CD pipelines, and application development.
 
 ---
 
 ## 🔭 Focus Areas:
-- Building **custom application images** with Packer, integrating databases like **MySQL/MariaDB/PostgreSQL**, and streamlining CI/CD processes with **GitHub Actions**.
+- Building **custom application images** with Packer, integrating databases like **MySQL/MariaDB/PostgreSQL**, and refining CI/CD workflows with **GitHub Actions**.
 - Automating dynamic infrastructure using **Terraform** on **AWS**.
 
 ---
 
 ## 🌱 Passion for Continuous Learning:
-- Keeping up with advancements in **cloud technologies** and **development frameworks**.
-- Sharpening full-stack development skills and exploring new approaches to cloud-based infrastructure management.
+- Staying updated with the latest in **cloud technologies** and **development frameworks**.
+- Sharpening full-stack development skills while exploring innovative approaches to cloud-based infrastructure management.
 
 ---
 
@@ -24,14 +28,13 @@ A results-driven software developer with seven years of experience in creating s
 - **Project Management**: Jira, Confluence, Microsoft ADO
 - **Version Control**: Git, GitHub, Subversion
 - **DBMS**: MySQL, Oracle, MongoDB, SQL Server, PostgreSQL
-- **Build & Deployment Tools**: Gradle, Maven, Ant
-- **Cloud Platforms**: AWS, GCP
+- **Cloud Technologies**: AWS, EC2, Terraform, Packer, RDS, GCP
 
 ---
 
 ## 💼 Professional Highlights:
-- At **CSG International**, restructured legacy code with modern standards like **RESTful APIs** and **microservices**, enhancing readability and maintainability by 90%.
-- At **Amdocs**, addressed critical security flaws and automated processes, saving 25+ man-hours weekly while reducing production issues by 32%.
+- **CSG International**: Enhanced codebase with modern standards (e.g., RESTful APIs, microservices) resulting in a 90% improvement in readability and maintainability.
+- **Amdocs**: Addressed over 5,500 security issues, saving $25,000 in potential losses quarterly while streamlining development processes to reduce production issues by 32%.
 
 ---
 
@@ -54,3 +57,12 @@ A results-driven software developer with seven years of experience in creating s
 ## 🌐 Connect with Me:
 - **LinkedIn**: [Ujjawal Shrivastava](https://www.linkedin.com/in/ujjawal-shrivastava/)
 - **GitHub**: [shrujj01](https://github.com/shrujj01/UjjawalShrivastava)
+
+---
+
+## 📄 Resume:
+You can view my full resume [here](./Resume_Ujjawal_Shrivastava_Software.pdf).
+
+---
+
+This README.md incorporates your professional experience, skills, and current academic pursuits, aligned with your GitHub stats and recent public repository contributions. Let me know if any additional details should be included!
