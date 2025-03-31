@@ -1,7 +1,7 @@
 Based on your resume and the existing content, here is an updated **README.md** for your GitHub profile:
 
 ---
-
+ 
 # Ujjawal Shrivastava
 
 Results-driven software developer with seven years of experience crafting advanced, scalable, and secure applications. Highly skilled in the complete software development lifecycle—from design to deployment—providing solutions that are both high-performing and user-focused. Currently advancing expertise in **Software Engineering Systems** at Northeastern University, with an emphasis on cloud computing, CI/CD pipelines, and application development.
